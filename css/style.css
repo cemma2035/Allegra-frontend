@@ -1,0 +1,336 @@
+.welcome-image{
+    background-image: url("../Images/welcome-image.png");
+    background-position: center;
+    background-size: cover;
+    height:100vh;
+}
+.web-nav{
+    height: 20vh;
+    background-color: rgba(0,0,0,0.3);
+}
+.nav-image{
+    margin-left: 10vw;
+}
+.welcome-image li a{
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.section-2{
+    height:100vh;
+}
+.intro-image-con{
+    /* margin-top: 12%;
+    margin-left: 5vw; */
+}
+.intro-image-con img{
+    
+}
+
+.text-con{
+    margin-top: 40%;
+    margin-left: 7vh;
+}
+.text-con span{
+    color: #434343;
+    font-size: 4.5vh;
+    font-family: 'Marck Script', cursive;
+}
+.text-con p{
+    color: #f7993e;
+    font-size: 4vh;
+    font-family: 'Lato', sans-serif;
+}
+.vh4half{
+    font-size: 4.5vh;
+}
+.dark-text{
+    color: #434343;
+}
+.brand-orange{
+    color: #f7993e;
+}
+.marck-text{
+    font-family: 'Marck Script', cursive;
+}
+.lato-text{
+    font-family: 'Lato', sans-serif;
+}
+.text-con-2{
+    line-height: 20px;
+    margin-top: 32%;
+}
+.text-con-2 div{
+    margin-left:10%;
+}
+.text-con-2 span{
+    color: #434343;
+    font-size: 3.3vh;
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 1.3px;
+}
+.anmeldung{
+    margin-top: 20%;
+}
+.my-form-check-label-1{
+    color: #434343;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.details-form input{
+    border-radius: 0px;
+}
+.checkmark{
+    width: 40px;
+}
+.first-check-group-words{
+    font-size: 3vh;
+    font-weight: bold;
+}
+.form-submit-btn{
+    background-color:#f19e3e;
+    color: white;
+    border-radius: 17px;
+    font-weight: bold;
+    letter-spacing: 1.2px;
+}
+.rezepte{
+    height: 120vh;
+    background-image: url("../Images/background_rezepte.png");
+}
+.rezepte-first-p{
+    margin-top: 20px;
+    font-size: 3.8vh;
+    letter-spacing: 1.4px;
+    font-weight: 500;
+    margin-bottom: 5%;
+}
+.rezepte-image-box{
+    height:70vh;
+    margin: auto;
+}
+.rezepte-image-con-1{
+    height: 60%;
+    /* background-image: url("../Images/slider-1.jpeg"); */
+    background-color: white;
+    background-position: center;
+    background-size: cover;
+
+}
+.rezepte-image-con-1 span{
+    font-size: 3vh;
+
+}
+.rezepte-image-con-2{
+    height: 60%;
+    background-image: url("../Images/slider-2.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+.rezepte-image-con-3{
+    height: 60%;
+    background-image: url("../Images/slider-3.jpeg");
+    background-position: center;
+    background-size: cover;
+}
+.rezepte-btn-con{
+    height: 40%;
+    background-color: white;
+}
+.rezepte-btn-con p{
+    font-size: 4vh;
+    padding-top: 8%;
+}
+.btn-brand{
+    background-color: #f19e3e;
+    color:white;
+}
+.bold-text{
+    font-weight: bold;
+}
+.scroller-brand{
+    overflow-y: scroll;
+    scrollbar-color: #f58731 #ffffff;
+    scrollbar-width: thin;
+}
+.image-space{
+    position: absolute;
+    top:0%;
+    left:0%;
+    z-index: 1;
+}
+.image-space img{
+    width:100%;
+}
+.text-space{
+    position: absolute;
+    top:0%;
+    left:0%;
+    z-index: 2;
+    display: none;
+}
+.second-form{
+    height: 220vh;
+    margin: 15% auto 5px;
+}
+.pre-form-text span{
+    font-size: 4.5vh;
+}
+.pre-form-text p{
+    font-size: 3vh;
+    letter-spacing: 1.2px;
+}
+.my-form-check-2{
+    
+}
+.my-form-check-label-2{
+    font-size: 2.7vh;
+    letter-spacing: 1.0px;
+    font-weight: 700;
+}
+.form-check-group-1{
+    margin-bottom: 10%;
+}
+.form-check-group-3{
+    margin-bottom: 4%;
+}
+.pflichtfelder{
+    font-size: 2.7vh;
+    letter-spacing: 1.0px;
+    font-weight: bolder;
+}
+.section-5{
+    margin-bottom: 20%;
+}
+footer{
+    min-height:80vh;
+    background-color: #424242;
+}
+.contact-1-con{
+    color:white;
+    margin-left: 20%;
+    margin-top: 30%;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1.1px;
+    line-height: 15px;
+}
+.contact-2-con{
+    color:white;
+    margin-left: 10%;
+    margin-top: 30%;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 1.1px;
+    line-height: 15px;
+}
+.contact-3-con{
+    color:white;
+    margin-top: 30%;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 1.1px;
+    line-height: 15px;
+}
+.form-check-group-3 .form-check{
+    margin-top:5vh;
+}
+@media (max-width:992px){
+    body{
+        overflow-x: hidden;
+    }
+    .text-con{
+        text-align: center;
+        margin-top:2vh;
+        margin-left: 0px;
+        font-size: 12px;
+    }
+    .text-con span{
+        font-size: 3vh;
+    }
+    .text-con p{
+        font-size: 3vh;
+    }
+    .s3-p1{
+        font-size: 3vh;
+    }
+    .text-con-2{
+        margin-top:2vh;
+        text-align: center;
+    }
+    .text-con-2 div{
+        margin-left: 0px;
+    }
+    .text-con-2 span{
+        font-size: 2vh;
+        font-weight: bold;
+    }
+    .form-submit-btn{
+        font-size: 2vh;
+    }
+    .rezepte-image-box{
+        height: 50vh;
+    }
+    .rezepte-btn{
+        font-size: 2vh;
+    }
+    .rezepte-btn-con p{
+        padding-top:10px;
+    }
+    .rezepte{
+        height:85vh;
+    }
+    .welcome-image{
+        height:60vh;
+    }
+    .my-form-check-label-2{
+        font-size: 14px;
+    }
+    .form-check-group-3{
+        margin-bottom: 5vh;
+    }
+    .form-check-group-3 .form-check{
+        margin-top: 5px;
+    }
+    .contact-1-con{
+        text-align: center;
+        margin-left:0px;
+        font-size: 12px;
+    }
+    .contact-2-con{
+        text-align: center;
+        margin-left:0px;
+        font-size: 12px;
+    }
+    .contact-3-con{
+        text-align: center;
+        margin-left:0px;
+        font-size: 12px;
+        margin-bottom: 10vh;
+    }
+}
+/* @media (min-width: 720px) and (max-width:992px) {
+    .intro-image-con{
+        margin:auto;
+    }
+    .text-con{
+        margin:0 auto;
+    }
+}
+@media (min-width: 420px) and (max-width:719px) {
+    .intro-image-con{
+        margin:auto;
+    }
+    .text-con{
+        margin:0 auto;
+    }
+}
+@media (max-width:419px) {
+    .intro-image-con{
+        margin:auto;
+    }
+    .text-con{
+        margin:0 auto;
+    }
+} */
